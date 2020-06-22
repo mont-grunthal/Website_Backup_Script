@@ -68,6 +68,3 @@ total_urls_visited = 0
 internal_urls = set()
 external_urls = set()
 crawler(url,max_urls)
-
-print(len(internal_urls))
-print(len(external_urls))
