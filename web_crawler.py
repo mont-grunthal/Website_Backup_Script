@@ -61,7 +61,7 @@ url = input("input url (https://example.com): ")
 
 max_urls = int(input("Set maximum links web_backup will follow: "))
 
-dir_name = input("Name the output file that will be created: ")
+dir_name = input("Name the output directory that will be created: ")
 
 #create and populate sets of urls on website init counter
 total_urls_visited = 0

@@ -1,0 +1,10 @@
+Website Name: https://montgrunthal.com 
+Backup date: 22/06/2020 
+Internal Links: 
+http://montgrunthal.com/home 
+http://montgrunthal.com/rocks 
+http://montgrunthal.com/mixture 
+http://montgrunthal.com/resume 
+https://montgrunthal.com 
+External Links: 
+https://github.com/mont-grunthal 
