@@ -2,8 +2,6 @@ import requests, os
 from bs4 import BeautifulSoup
 from datetime import date
 from urllib.parse import urlparse, urljoin
-from pathlib import Path
-
 import web_crawler as wc
 
 
